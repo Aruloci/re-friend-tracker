@@ -428,7 +428,7 @@ export class GuiModel {
                             "type": "button",
                             "name": "EditActivity",
                             "icon": "fa-edit",
-                            "color": "green",
+                            "color": "yellow",
                             "form": {
                                 "form": "ActivityForm"
                             }
